@@ -1,2 +1,6 @@
-# hello
-this is my first git code
+#include<stdio.h>
+int main()
+{
+  printf("Hello world!\n");
+  return 0;
+}
